@@ -24,9 +24,9 @@ scipy==1.4.1
 six==1.14.0
 sklearn==0.0
 tensorboard==1.13.1
-tensorflow==1.13.1
-tensorflow-estimator==1.13.0
+https://files.pythonhosted.org/packages/77/63/a9fa76de8dffe7455304c4ed635be4aa9c0bacef6e0633d87d5f54530c5c/tensorflow-1.13.1-cp36-cp36m-manylinux1_x86_64.whl#sha256=77eec2351d0a9b5312ea01ee4c78c13996f249cf1bead2e68256a65e533f45ef
 termcolor==1.1.0
 torch==1.4.0
 torchvision==0.5.0
 Werkzeug==1.0.0
+-e git+https://github.com/josipd/torch-two-sample.git#egg=torch-two-sample
